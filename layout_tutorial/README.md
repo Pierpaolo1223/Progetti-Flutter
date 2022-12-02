@@ -1,6 +1,6 @@
 # layout_tutorial
 
-A new Flutter project.
+Fake Vodafone Interface project
 
 ## Getting Started
 
