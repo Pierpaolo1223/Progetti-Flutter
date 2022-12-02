@@ -1,6 +1,6 @@
 # memory
 
-A new Flutter project.
+Simple Memory project
 
 ## Getting Started
 
