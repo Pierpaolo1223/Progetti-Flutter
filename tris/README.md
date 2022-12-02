@@ -1,6 +1,6 @@
 # tris
 
-A new Flutter project.
+Simple Tris project
 
 ## Getting Started
 
